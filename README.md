@@ -29,7 +29,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=04psm&show_icons=true&locale=en" alt="04psm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=04psm&show_icons=true&locale=en" alt="04psm" /></p>
 
 <p><img align="right" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=04psm&" alt="04psm" /></p>
 
