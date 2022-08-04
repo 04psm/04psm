@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Partha Sarathi Manna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 <img align = "right" width="400" src="https://cdn.dribbble.com/users/2170220/screenshots/4535264/labor_day.gif" alt="Coding gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=04psm&label=Profile%20views&color=0e75b6&style=flat" alt="04psm" /> </p>
@@ -29,7 +29,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=04psm&show_icons=true&locale=en" alt="04psm" /></p>
+<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=04psm&show_icons=true&locale=en" alt="04psm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=04psm&" alt="04psm" /></p>
+<p><img align="right"  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=04psm&" alt="04psm" /></p>
 
