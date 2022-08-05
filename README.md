@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Partha Sarathi Manna</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align = "right" width="400" src="https://beautifulpixels.com/wp-content/uploads/2017/08/tr12082017-6.gif">
+<img align = "right" width="400" src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=04psm&label=Profile%20views&color=0e75b6&style=flat" alt="04psm" /> </p>
 
