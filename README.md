@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 👨‍💻 All of my projects are available at [https://capable-bublanina-f40bad.netlify.app/](https://capable-bublanina-f40bad.netlify.app/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 👨‍💻 All of my projects are available at [https://partha-sarathi-manna.netlify.app/](https://partha-sarathi-manna.netlify.app/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 💬 Ask me about **React , MERN**&nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
