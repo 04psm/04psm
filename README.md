@@ -48,10 +48,10 @@
 
 <!-- End Tools and Languages  -->
 
-<p>&nbsp;<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=04psm&show_icons=true&locale=en" alt="04psm" /></p>
+<!-- <p>&nbsp;<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=04psm&show_icons=true&locale=en" alt="04psm" /></p>
 
 <p><img align="center"  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=04psm&" alt="04psm" /></p>
-
+ -->
 
 
 
