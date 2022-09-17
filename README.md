@@ -76,8 +76,7 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=04psm
-  &show_icons=true&theme=cobalt" alt="Partha's Language stats" /> | [![Partha's github activity graph](https://activity-graph.herokuapp.com/graph?username=04psm&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/04psm/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=04psm&show_icons=true&theme=cobalt" alt="Partha's Language stats" /> | [![Partha's github activity graph](https://activity-graph.herokuapp.com/graph?username=04psm&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/04psm/github-readme-activity-graph) |
 
 <div aling="left">
   
