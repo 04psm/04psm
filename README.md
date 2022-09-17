@@ -2,14 +2,21 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Partha Sarathi Manna</h1>
 <h3 align="center">A passionate Backend developer from India</h3> 
 <img align = "right" width="250" src="coffee.webp">
+<!-- -->
+<!-- --><!-- --><!-- -->
+<!-- profile view -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=04psm&label=Profile%20views&color=0e75b6&style=flat" alt="04psm" /> </p>
 
+<!-- profile view end  -->
+
+<!--
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+-->
 
 - 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 👨‍💻 All of my projects are available at [https://partha-sarathi-manna.netlify.app/](https://partha-sarathi-manna.netlify.app/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 👨‍💻 Checkout my [Portfolio](https://partha-sarathi-manna.netlify.app/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 💬 Ask me about **React , MERN**&nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
