@@ -6,7 +6,7 @@
 [![@04psm's Holopin board](https://holopin.io/api/user/board?user=04psm)](https://holopin.io/@04psm)
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Partha Sarathi Manna</h1>
-<h3 align="center">A passionate Backend developer from India</h3> 
+<h3 align="center">A passionate java backend developer from India</h3> 
 <img align = "right" width="250" src="coffee.webp">
 
 <!-- profile view -->
