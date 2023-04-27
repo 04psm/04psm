@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/partha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="partha04" height="30" width="40" /></a>
 <a href="https://instagram.com/nihilist_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihilist_04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/parthasarathima3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parthasarathima3" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/parthasarathimanna2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthasarathimanna2015" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parthasarathimanna2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parthasarathimanna2015" height="30" width="40" /></a>
 </p>
